@@ -2,7 +2,7 @@
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tests](https://img.shields.io/badge/Tests-13%20Passed-brightgreen?style=for-the-badge)
+![CI](https://github.com/HimaNag/rest-api-test-suite/actions/workflows/api-tests.yml/badge.svg)
 
 A production-grade REST API test automation framework built with **Playwright** and **TypeScript**, targeting the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.
 
